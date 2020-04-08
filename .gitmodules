@@ -1,0 +1,3 @@
+[submodule "rs2tsl"]
+	path = rs2tsl
+	url = https://github.com/leon3110l/rs2tsl
